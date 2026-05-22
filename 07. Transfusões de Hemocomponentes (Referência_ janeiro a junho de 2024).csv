@@ -1,19 +1,8 @@
-NOME DA BASE: Transfusões de Hemocomponentes;;;;;;;;;;;;;;
-DESCRIÇÃO DA BASE: Número de transfusões de hemocomponentes realizadas;;;;;;;;;;;;;;
-PERÍODO DE REFERÊNCIA: janeiro a junho de 2024;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-Ano: 2023;Número de transfusões (bolsas utilizadas) de hemocomponentes  ;Concentrado de Hemácias (CH);Concentrado de Hemácias Pobre em Leucócitos (CHPL);Concentrado de Hemácias Desleucocitado (CHD);Concentrado de Plaquetas Randômicas;POOL de Plaquetas;Plaquetas por Aférese;Plasma Fresco Congelado (PFC);Crioprecipitado;;;;;
-JANEIRO;536;18;160;109;162;18;11;49;9;;;;;
-FEVEREIRO;345;10;155;65;61;6;17;20;11;;;;;
-MARÇO;504;19;153;100;128;4;13;73;14;;;;;
-ABRIL;539;24;158;100;100;15;7;112;23;;;;;
-MAIO;807;32;157;100;200;20;38;252;8;;;;;
-JUNHO;460;14;146;99;100;22;11;44;24;;;;;
-TOTAL;3191;117;929;573;751;85;97;550;89;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
+mes,total_transfusoes,CH,CHPL,CHD,Plaquetas_Randomicas,Pool_Plaquetas,Plaquetas_Aferese,PFC,Crioprecipitado
+JANEIRO,536,18,160,109,162,18,11,49,9
+FEVEREIRO,345,10,155,65,61,6,17,20,11
+MARÇO,504,19,153,100,128,4,13,73,14
+ABRIL,539,24,158,100,100,15,7,112,23
+MAIO,807,32,157,100,200,20,38,252,8
+JUNHO,460,14,146,99,100,22,11,44,24
+TOTAL,3191,117,929,573,751,85,97,550,89
